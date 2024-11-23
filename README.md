@@ -1,16 +1,15 @@
-# real_project_bloc_api_lists
+## Flutter - Movie App | APİ 
 
-A new Flutter project.
+Family movie watching application I developed with flutter.
 
-## Getting Started
+- MVVM Design Pattern
+- DİO
+- flutter_bloc
+- Get It
+- equatable
+- 
+ ## My Application Design <br>
+<img src="https://i.hizliresim.com/nfsn70x.png" width="60%"><br>
+(Yönetim Paneli)<br>
+<img src="https://i.hizliresim.com/kmcca5g.png" width="60%">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
