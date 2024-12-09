@@ -1,15 +1,18 @@
 ## Flutter - Movie App | APİ 
 
-Family movie watching application I developed with flutter.
+Information :
+
+An application I made for families to watch family movies without ads.
+
+Packages Used :
 
 - MVVM Design Pattern
 - DİO
-- flutter_bloc
+- Flutter_bloc
 - Get It
-- equatable
+- Equatable
 - 
- ## My Application Design <br>
-<img src="https://i.hizliresim.com/nfsn70x.png" width="60%"><br>
-(Yönetim Paneli)<br>
-<img src="https://i.hizliresim.com/kmcca5g.png" width="60%">
+ ## Application Design <br>
+<img src="https://i.hizliresim.com/nfsn70x.png" width="50%"><br>
+<img src="https://i.hizliresim.com/kmcca5g.png" width="50%">
 
