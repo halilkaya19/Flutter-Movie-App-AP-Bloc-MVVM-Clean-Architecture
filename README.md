@@ -1,4 +1,4 @@
-## Flutter - Movie App | APİ 
+## Flutter - Movie App (MVVM Design Pattern) | APİ 
 
 Information :
 
@@ -6,7 +6,6 @@ An application I made for families to watch family movies without ads.
 
 Packages Used :
 
-- MVVM Design Pattern
 - DİO
 - Flutter_bloc
 - Get It
